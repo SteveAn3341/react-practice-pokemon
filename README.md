@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+use useEffect to create a website can click and return some data from pokemon api 
 
 Currently, two official plugins are available:
 
